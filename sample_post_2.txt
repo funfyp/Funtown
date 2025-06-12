@@ -1,0 +1,10 @@
+---
+title: "Web Dev Zen"
+date: 2025-06-11
+---
+
+Full-stack harmony is real. When you master the tools, the frameworks, and the mindset — you enter the flow.
+
+Whether you're debugging JavaScript at midnight or refining responsive CSS in the morning, the key is breathing through the build.
+
+Code with intent. Deploy with peace.

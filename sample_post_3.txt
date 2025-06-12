@@ -1,0 +1,10 @@
+---
+title: "Tech is Art"
+date: 2025-06-10
+---
+
+Every function has form. Every layout tells a story. And every UI is an opportunity to captivate.
+
+The boundary between engineering and art is blurry — and that's where innovation happens.
+
+Build beautifully. Design responsibly. Code creatively.
